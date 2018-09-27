@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\Sliding\\Sliding_Library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 70,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 70,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 67,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 67,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

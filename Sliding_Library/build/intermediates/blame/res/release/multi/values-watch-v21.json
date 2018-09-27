@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\Sliding\\Sliding_Library\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a431f0491fddcd442289cc9a93158025ea37e010\\output\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 724
+                    }
+                }
+            }
+        ]
+    }
+]
